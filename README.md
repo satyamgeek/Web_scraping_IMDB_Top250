@@ -14,15 +14,18 @@ Here, in this application we have used Python3, BeautifulSoup, Sqlite3 to extrac
 5> pandas as pd<br>
 6> sqlite3<br>
 
-The project folder contains the application notebook and python file.
+The project folder contains the application **notebook** and **python** file.
 
-This application gives the user to select the format to save in.
+#### This application gives user the option to select the format to save in.
 ![image](https://user-images.githubusercontent.com/16632408/174136161-008faa06-c4a4-4f93-aaa5-e073abdce9a4.png)
+![SQL_save](https://user-images.githubusercontent.com/16632408/174136974-15cd31fa-3510-4ede-a095-fc3e8328f967.png)
 
-User can also execute QUERY over the database.
 
+#### User can also execute **QUERY** over the database.
+The name of the database is given with the schemas of the database:
+![Query_statement](https://user-images.githubusercontent.com/16632408/174136881-035b1e7d-79a7-4850-9db8-d769e77e5045.png)
 
-Data of the movies collected:
+### Data of the movies collected:
 1>Movie Name.<br>
 2>Release Year.<br>
 3>Actors.<br>
