@@ -40,7 +40,7 @@ while(True):
     ip = int(input("How do you want to save the Data which is collected CSV(1) or SQLite(2) : "))
     
     if ip == 1:
-        file_name = str(input("Enter File Name"))+".csv"
+        file_name = str(input("Enter File Name : "))+".csv"
         db = open(file_name, "w")                         #Making a csv file to enter the collected Data
         writer = writer(db)
 
